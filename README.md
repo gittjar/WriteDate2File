@@ -1,2 +1,2 @@
-# WriteDate2File
-# WriteDate2File
+### WriteDate2File
+Small unit test example for C# program.
